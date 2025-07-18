@@ -9,8 +9,6 @@ I'm especially passionate about:
 - Experiment tracking and reproducibility
 - Clean, production-ready ML pipelines
 
-Tools
-
-Python, SQL, MLOps
+Tools: Python, SQL, MLOps
 
 Connect with Me on [Linkedin](https://www.linkedin.com/in/neeraj-bhauryal-3a0311205/)
